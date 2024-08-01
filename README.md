@@ -38,7 +38,7 @@
 
 | 기간 | 내용 |
 | --- | --- |
-| 2023.11 ~ 2024.02　|바이크 커스텀 중계 앱 '<a href="https://github.com/pkm021118/CLUTCHER">CLUTCHER</a>' 기획, 디자인, 개발|
+| 2023.11 ~ 2024.02　|바이크 커스텀 중계 앱 '<a href="https://github.com/pkm021118/CLUTCHER">CLUTCHER</a>' 기획, 디자인, 개발          |
 | 2024.04 ~ 2023.06　|전자기기 전문 중고거래 서비스 '<a href="https://github.com/pkm021118/Fuser">Fuser</a>' 기획, 디자인, 개발|
 | 2024.07 ~ 2024.08 |개인 맞춤 도서 추천 서비스 '<a href="https://github.com/KMU-WINK/geulhyang-frontend">글향</a>' Frontend 개발|
 | 2024.07 ~ 2024.08|현지인 입맛 맞춤 음식 리뷰 서비스 '<a href="https://github.com/Ta-Rae">타래</a>' 기획, 디자인, 개발|
