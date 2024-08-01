@@ -1,5 +1,3 @@
-<br/><br>
-
 ## 🏫 Experience & Social Activity
 
 <div align='left'>
