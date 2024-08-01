@@ -43,7 +43,7 @@
 | 2024.07 ~ 2024.08 |개인 맞춤 도서 추천 서비스 '<a href="https://github.com/KMU-WINK/geulhyang-frontend">글향</a>' Frontend 개발|
 | 2024.07 ~ 2024.08|현지인 입맛 맞춤 음식 리뷰 서비스 '<a href="https://github.com/Ta-Rae">타래</a>' 기획, 디자인, 개발|
 | 2024.07 ~ 2024.08 |팀 일정관리 캘린더 '<a href="https://github.com/2023-2-WINK-Project-Team1/front-end-web">PlanList</a>'디자인, Frontend 개발|
-| 2024.07 ~ 2024.11 |AI 회의 요약 서비스 '<a href="https://github.com/kookmin-sw/capstone-2024-25">Clerker</a>' 디자인, Frontend 개발|
+| 2024.07 ~ 2024.11 |AI 회의 요약 및 정리 서비스 '<a href="https://github.com/kookmin-sw/capstone-2024-25">Clerker</a>' 디자인, Frontend 개발|
 
 </div>
 
