@@ -37,11 +37,6 @@
       <td align="left">국민대학교 소프트웨어융합대학 제5대 학생회 기획부 부원</td>
     </tr>
     <tr>
-      <td align="left">ROKA</td>
-      <td align="left">2022.04 ~ 2023.10</td>
-      <td align="left">9사단 28여단 3대대 화기중대 중대통신병</td>
-    </tr>
-    <tr>
       <td align="left">WINK (Web In Kookmin)</td>
       <td align="left">2024.04 ~ 2024.11</td>
       <td align="left">국민대학교 소프트웨어융합대학 웹 학술 동아리 부원</td>
