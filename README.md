@@ -85,7 +85,7 @@
     </tr>
     <tr>
       <td align="left">2024.07 ~ 2024.11</td>
-      <td align="left">AI 회의 요약 및 정리 서비스 <strong><a href="https://github.com/kookmin-sw/capstone-2024-25">Clerker</a></strong> 디자인, Frontend 개발</td>
+      <td align="left">AI 회의 요약 및 정리 서비스 <strong><a href="https://github.com/D-X-W-Clerker">Clerker</a></strong> 디자인, Frontend 개발</td>
     </tr>
   </tbody>
 </table>
