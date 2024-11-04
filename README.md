@@ -66,20 +66,12 @@
   </thead>
   <tbody>
     <tr>
-      <td align="left">2023.11 ~ 2024.02</td>
-      <td align="left">바이크 커스텀 중계 앱 <strong><a href="https://github.com/pkm021118/CLUTCHER">CLUTCHER</a></strong> 기획, 디자인, 개발</td>
-    </tr>
-    <tr>
       <td align="left">2024.04 ~ 2023.06</td>
       <td align="left">전자기기 전문 중고거래 서비스 <strong><a href="https://github.com/pkm021118/Fuser">Fuser</a></strong> 기획, 디자인, 개발</td>
     </tr>
     <tr>
       <td align="left">2024.06 ~ 2023.08</td>
       <td align="left">Web IN Kookmin 공식 사이트 리뉴얼 <strong><a href="https://github.com/KMU-WINK/wink-official">WINK</a></strong> 기획, 디자인, 개발</td>
-    <tr>
-      <td align="left">2024.07 ~ 2024.08</td>
-      <td align="left">개인 맞춤 도서 추천 서비스 <strong><a href="https://github.com/KMU-WINK/geulhyang-frontend">글향</a></strong> Frontend 개발</td>
-    </tr>
     <tr>
       <td align="left">2024.07 ~ 2024.08</td>
       <td align="left">현지인 입맛 맞춤 음식 리뷰 서비스 <strong><a href="https://github.com/Ta-Rae">타래</a></strong> 기획, 디자인, 개발</td>
