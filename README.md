@@ -74,10 +74,6 @@
       <td align="left">Web IN Kookmin 공식 사이트 리뉴얼 <strong><a href="https://github.com/KMU-WINK/wink-official">WINK</a></strong> 기획, 디자인, 개발</td>
     <tr>
       <td align="left">2024.07 ~ 2024.08</td>
-      <td align="left">현지인 입맛 맞춤 음식 리뷰 서비스 <strong><a href="https://github.com/Ta-Rae">타래</a></strong> 기획, 디자인, 개발</td>
-    </tr>
-    <tr>
-      <td align="left">2024.07 ~ 2024.08</td>
       <td align="left">팀 일정관리 캘린더 <strong><a href="https://github.com/2024-WINK-Project-PlanList">PlanList</a></strong> 디자인, Frontend 개발</td>
     </tr>
     <tr>
