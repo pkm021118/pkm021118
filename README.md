@@ -5,9 +5,9 @@
 <table style="width: auto; table-layout: auto;">
   <thead>
     <tr>
-      <th align="left">소속 및 단체</th>
-      <th align="left">활동 기간</th>
-      <th align="left">내용</th>
+      <th align="left">Affiliation and organization</th>
+      <th align="left">Activity period</th>
+      <th align="left">Detail</th>
     </tr>
   </thead>
   <tbody>
@@ -73,7 +73,7 @@
 
 <br/>
 
-## 🏆 𝐶𝑜𝑛𝑡𝑒𝑠𝑡𝑠
+## 🏆 Contest
 | 𝐴𝑤𝑎𝑟𝑑 | 𝐷𝑎𝑡𝑒       | 𝑁𝑎𝑚𝑒                                            | 𝐴𝑟𝑒𝑎               |
 |------------|----------------|-----------------------------------------------------|------------------------|
 | 최우수상          | 𝟸𝟶𝟸𝟺. 𝟶𝟿 | [국민대학교 웹 학술 동아리 Wink × The Compass 해커톤](https://github.com/Winkathon-Tripee) | 𝐻𝑎𝑐𝑘𝑎𝑡ℎ𝑜𝑛      |
