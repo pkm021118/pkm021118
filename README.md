@@ -46,6 +46,11 @@
       <td align="left">2024.07 ~ 2024.11</td>
       <td align="left">국민대학교 소프트웨어융합대학 웹 학술 동아리 임원진</td>
     </tr>
+    <tr>
+      <td align="left">WINK (Web In Kookmin)</td>
+      <td align="left">2024. 11 ~ 2025.11</td>
+      <td align="left">국민대학교 소프트웨어융합대학 웹 학술 동아리 회장</td>
+    </tr>
   </tbody>
 </table>
 
