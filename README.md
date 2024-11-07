@@ -77,8 +77,16 @@
       <td align="left">팀 일정관리 캘린더 <strong><a href="https://github.com/2024-WINK-Project-PlanList">PlanList</a></strong> 디자인, Frontend 개발</td>
     </tr>
     <tr>
+      <td align="left">2024.09 ~ 2024.09</td>
+      <td align="left">여행 계획 거래 플랫폼 <strong><a href="https://github.com/Winkathon-Tripee">tripee</a></strong> 디자인, Frontend 개발</td>
+    </tr>
+    <tr>
       <td align="left">2024.07 ~ 2024.11</td>
       <td align="left">AI 회의 요약 및 정리 서비스 <strong><a href="https://github.com/D-X-W-Clerker">Clerker</a></strong> 디자인, Frontend 개발</td>
+    </tr>
+    <tr>
+      <td align="left">2024.09 ~ 2024.11</td>
+      <td align="left">AI 군대 합격률 예측 서비스 <strong><a href="https://github.com/orgs/kmu-alphabeta">MiliPreview</a></strong> 디자인, Frontend 개발</td>
     </tr>
   </tbody>
 </table>
