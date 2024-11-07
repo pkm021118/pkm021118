@@ -57,40 +57,6 @@
 
 <div align='left'>
 
-<table>
-  <thead>
-    <tr>
-      <th align="left">기간</th>
-      <th align="left">내용</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="left">2024.04 ~ 2023.06</td>
-      <td align="left">전자기기 전문 중고거래 서비스 <strong><a href="https://github.com/pkm021118/Fuser">Fuser</a></strong> 기획, 디자인, 개발</td>
-    </tr>
-    <tr>
-      <td align="left">2024.06 ~ 2023.08</td>
-      <td align="left">Web IN Kookmin 공식 사이트 리뉴얼 <strong><a href="https://github.com/KMU-WINK/wink-official">WINK</a></strong> 기획, 디자인, 개발</td>
-    <tr>
-      <td align="left">2024.07 ~ 2024.08</td>
-      <td align="left">팀 일정관리 캘린더 <strong><a href="https://github.com/2024-WINK-Project-PlanList">PlanList</a></strong> 디자인, Frontend 개발</td>
-    </tr>
-    <tr>
-      <td align="left">2024.09 ~ 2024.09</td>
-      <td align="left">여행 계획 거래 플랫폼 <strong><a href="https://github.com/Winkathon-Tripee">tripee</a></strong> 디자인, Frontend 개발</td>
-    </tr>
-    <tr>
-      <td align="left">2024.07 ~ 2024.11</td>
-      <td align="left">AI 회의 요약 및 정리 서비스 <strong><a href="https://github.com/D-X-W-Clerker">Clerker</a></strong> 디자인, Frontend 개발</td>
-    </tr>
-    <tr>
-      <td align="left">2024.09 ~ 2024.11</td>
-      <td align="left">AI 군대 합격률 예측 서비스 <strong><a href="https://github.com/orgs/kmu-alphabeta">MiliPreview</a></strong> 디자인, Frontend 개발</td>
-    </tr>
-  </tbody>
-</table>
-
 |                                                                 | 𝑆𝑡𝑎𝑟𝑡 𝐷𝑎𝑡𝑒 | 𝐸𝑛𝑑 𝐷𝑎𝑡𝑒 | 𝑁𝑎𝑚𝑒                                                          | 𝐷𝑒𝑠𝑐𝑟𝑖𝑝𝑡𝑖𝑜𝑛 | 𝑃𝑎𝑟𝑡 |
 |-----------------------------------------------------------------|---------------------|-----------------|-------------------------------------------------------------------|------------------------|---------------------|
 | ![icon](https://avatars.githubusercontent.com/u/183178341?s=32)  | 2024. 04      | 2024. 06  | [Fuser](https://github.com/pkm021118/Fuser)          | 전자기기 전문 중고거래 서비스        | solo            |
