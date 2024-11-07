@@ -97,7 +97,7 @@
 | ![icon](https://avatars.githubusercontent.com/u/69004745?s=32)  | 2024. 06      | 2024. 08  | [WINK](https://github.com/KMU-WINK/wink-official)               | Web In Kookmin 공식 홈페이지       | design, Front            |
 | ![icon](https://avatars.githubusercontent.com/u/69004745?s=32)  | 2024. 07      | 2024. 08  | [PlanList](https://github.com/2024-WINK-Project-PlanList) | 팀 일정관리 캘린더     | design, front            |
 | ![icon](https://avatars.githubusercontent.com/u/165166771?s=32) | 2024. 09     | 2024. 09  | [tripee](https://github.com/Winkathon-Tripee)                           | 여행 계획 거래 플랫폼 | design, front            | 
-| ![icon](https://avatars.githubusercontent.com/u/141645883?s=32) | 2024. 07      | 2024. 11  | [Clerker](https://github.com/D-X-W-Clerker)                        | AI 화의 요약 및 정리 서비스       | design, front            | 
+| ![icon](https://ifh.cc/v-9LWaxB) | 2024. 07      | 2024. 11  | [Clerker](https://github.com/D-X-W-Clerker)                        | AI 화의 요약 및 정리 서비스       | design, front            | 
 | ![icon](https://avatars.githubusercontent.com/u/141645883?s=32) | 2024. 09      | 2024. 11  | [MiliPreview](https://github.com/orgs/kmu-alphabeta)                        | AI 군대 합격률 예측 서비스       | design, front            | 
 
 
