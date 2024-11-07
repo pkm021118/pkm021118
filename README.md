@@ -91,6 +91,14 @@
   </tbody>
 </table>
 
+|                                                                 | 𝑆𝑡𝑎𝑟𝑡 𝐷𝑎𝑡𝑒 | 𝐸𝑛𝑑 𝐷𝑎𝑡𝑒 | 𝑁𝑎𝑚𝑒                                                          | 𝐷𝑒𝑠𝑐𝑟𝑖𝑝𝑡𝑖𝑜𝑛 | 𝑃𝑎𝑟𝑡 |
+|-----------------------------------------------------------------|---------------------|-----------------|-------------------------------------------------------------------|------------------------|---------------------|
+| ![icon](https://avatars.githubusercontent.com/u/183178341?s=32)  | 𝟸𝟶𝟸𝟺. 𝟶𝟿      | 𝟸𝟶𝟸𝟺. 𝟶𝟿  | [Idea Bank](https://github.com/Cokothon-Idea-Bank)          | 아이디어 공유 플랫폼        | 𝑆𝑜𝑙𝑜            |
+| ![icon](https://avatars.githubusercontent.com/u/179787666?s=32)  | 𝟸𝟶𝟸𝟺. 𝟶𝟿      | 𝟸𝟶𝟸𝟺. 𝟶𝟿  | [Tripee](https://github.com/Winkathon-Tripee)               | 여행 계획 공유 플랫폼       | 𝑇𝑒𝑎𝑚            |
+| ![icon](https://avatars.githubusercontent.com/u/69004745?s=32)  | 𝟸𝟶𝟸𝟺. 𝟶𝟹      | -               | [Wink 공식 홈페이지](https://github.com/KMU-WINK/wink-official-backend) | 국민대학교 Wink 공식 홈페이지     | 𝑇𝑒𝑎𝑚            |
+| ![icon](https://avatars.githubusercontent.com/u/165166771?s=32) | 𝟸𝟶𝟸𝟺. 𝟶𝟷      | 𝟸𝟶𝟸𝟺. 𝟶𝟺  | [ZephyR](https://github.com/CS2-ZephyR)                           | Team ZephyR CS2 Plugin | 𝑆𝑜𝑙𝑜            | 
+| ![icon](https://avatars.githubusercontent.com/u/141645883?s=32) | 𝟸𝟶𝟸𝟹. 𝟶𝟽      | 𝟸𝟶𝟸𝟹. 𝟶𝟿  | [티플](https://github.com/JCHS-Teacher-Plan)                        | 국내 교사용 시간표 IOS 앱       | 𝑆𝑜𝑙𝑜            | 
+
 </div>
 
 <br/>
