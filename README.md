@@ -64,7 +64,7 @@
 | ![icon](https://avatars.githubusercontent.com/u/175736742?s=32)  | 2024. 07      | 2024. 08  | [PlanList](https://github.com/2024-WINK-Project-PlanList) | 팀 일정관리 캘린더     | design, front            |
 | ![icon](https://avatars.githubusercontent.com/u/179787666?s=32) | 2024. 09     | 2024. 09  | [tripee](https://github.com/Winkathon-Tripee)                           | 여행 계획 거래 플랫폼 | design, front            | 
 | ![Icon4](https://github.com/user-attachments/assets/227b1297-26e2-4edf-97f8-6d1028f54780) | 2024. 07      | 2024. 11  | [Clerker](https://github.com/D-X-W-Clerker)                        | AI 화의 요약 및 정리 서비스       | design, front            | 
-| ![icon](https://avatars.githubusercontent.com/u/141645883?s=32) | 2024. 09      | 2024. 11  | [MiliPreview](https://github.com/orgs/kmu-alphabeta)                        | AI 군대 합격률 예측 서비스       | design, front            | 
+| ![Icon3](https://github.com/user-attachments/assets/69557827-53c6-4e31-acd5-b756e20d7f05) | 2024. 09      | 2024. 11  | [MiliPreview](https://github.com/orgs/kmu-alphabeta)                        | AI 군대 합격률 예측 서비스       | design, front            | 
 
 
 </div>
