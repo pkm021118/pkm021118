@@ -59,7 +59,7 @@
 
 |                                                                 | 𝑆𝑡𝑎𝑟𝑡 𝐷𝑎𝑡𝑒 | 𝐸𝑛𝑑 𝐷𝑎𝑡𝑒 | 𝑁𝑎𝑚𝑒                                                          | 𝐷𝑒𝑠𝑐𝑟𝑖𝑝𝑡𝑖𝑜𝑛 | 𝑃𝑎𝑟𝑡 |
 |-----------------------------------------------------------------|---------------------|-----------------|-------------------------------------------------------------------|------------------------|---------------------|
-| ![Fuser](https://github.com/user-attachments/assets/c95603da-c303-4b2c-8135-987f2c74799a?s=128) | 2024. 04      | 2024. 06  | [Fuser](https://github.com/pkm021118/Fuser)          | 전자기기 전문 중고거래 서비스        | solo            |
+| <img src="https://github.com/user-attachments/assets/c95603da-c303-4b2c-8135-987f2c74799a" alt="icon" width="200" height="200"> ) | 2024. 04      | 2024. 06  | [Fuser](https://github.com/pkm021118/Fuser)          | 전자기기 전문 중고거래 서비스        | solo            |
 | ![icon](https://avatars.githubusercontent.com/u/69004745?s=64)  | 2024. 06      | 2024. 08  | [WINK](https://github.com/KMU-WINK/wink-official)               | Web In Kookmin 공식 홈페이지       | design, Front            |
 | ![icon](https://avatars.githubusercontent.com/u/175736742?s=128)  | 2024. 07      | 2024. 08  | [PlanList](https://github.com/2024-WINK-Project-PlanList) | 팀 일정관리 캘린더     | design, front            |
 | ![icon](https://avatars.githubusercontent.com/u/179787666?s=32) | 2024. 09     | 2024. 09  | [tripee](https://github.com/Winkathon-Tripee)                           | 여행 계획 거래 플랫폼 | design, front            | 
