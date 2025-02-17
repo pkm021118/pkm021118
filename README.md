@@ -28,16 +28,6 @@
     </tr>
     <tr>
       <td align="left">WINK</td>
-      <td align="left">2024.04 ~ 2024.07</td>
-      <td align="left">국민대학교 소프트웨어융합대학 웹 학술 동아리 부원</td>
-    </tr>
-    <tr>
-      <td align="left">WINK</td>
-      <td align="left">2024.07 ~ 2024.11</td>
-      <td align="left">국민대학교 소프트웨어융합대학 웹 학술 동아리 임원진</td>
-    </tr>
-    <tr>
-      <td align="left">WINK</td>
       <td align="left">2024. 11 ~ 2025.11</td>
       <td align="left">국민대학교 소프트웨어융합대학 웹 학술 동아리 회장</td>
     </tr>
