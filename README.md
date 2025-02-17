@@ -12,16 +12,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="left">애월고등학교</td>
-      <td align="left">2018.03 ~ 2021.03</td>
-      <td align="left">애월고등학교 재학</td>
-    </tr>
-    <tr>
-      <td align="left">애월고등학교 학생회</td>
-      <td align="left">2018.06 ~ 2019.06</td>
-      <td align="left">애월고등학교 제67기 학생회 부원</td>
-    </tr>
-    <tr>
       <td align="left">애월고등학교 학생회</td>
       <td align="left">2019.06 ~ 2020.06</td>
       <td align="left">애월고등학교 제67기 학생회 회장</td>
