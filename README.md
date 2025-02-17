@@ -22,24 +22,29 @@
       <td align="left">국민대학교 소프트웨어학부 재학</td>
     </tr>
     <tr>
-      <td align="left">이프 (IF)</td>
+      <td align="left">IF</td>
       <td align="left">2021.03 ~ 2021.11</td>
       <td align="left">국민대학교 소프트웨어융합대학 제5대 학생회 기획부 부원</td>
     </tr>
     <tr>
-      <td align="left">WINK (Web In Kookmin)</td>
+      <td align="left">WINK</td>
       <td align="left">2024.04 ~ 2024.07</td>
       <td align="left">국민대학교 소프트웨어융합대학 웹 학술 동아리 부원</td>
     </tr>
     <tr>
-      <td align="left">WINK (Web In Kookmin)</td>
+      <td align="left">WINK</td>
       <td align="left">2024.07 ~ 2024.11</td>
       <td align="left">국민대학교 소프트웨어융합대학 웹 학술 동아리 임원진</td>
     </tr>
     <tr>
-      <td align="left">WINK (Web In Kookmin)</td>
+      <td align="left">WINK</td>
       <td align="left">2024. 11 ~ 2025.11</td>
       <td align="left">국민대학교 소프트웨어융합대학 웹 학술 동아리 회장</td>
+    </tr>
+    <tr>
+      <td align="left">Archive</td>
+      <td align="left">2024. 12 ~ 2025. 11</td>
+      <td align="left">국민대학교 소프트웨어융합대학 제9대 학생회 홍보부 부원</td>
     </tr>
   </tbody>
 </table>
