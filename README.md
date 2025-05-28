@@ -91,7 +91,6 @@
 
 <div align='center'>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pkm021118)](https://solved.ac/pkm021118/)
 
 </div>
 
