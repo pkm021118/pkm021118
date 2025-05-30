@@ -57,6 +57,7 @@
 | <img src="https://github.com/user-attachments/assets/1c232b5a-a28c-415a-a093-7b2ca3efcd54" alt="icon" width="100" height="100"> | 2024. 09     | 2024. 09  | [tripee](https://github.com/Winkathon-Tripee)                           | 여행 계획 거래 플랫폼 | design, front            | 
 | <img src="https://github.com/user-attachments/assets/227b1297-26e2-4edf-97f8-6d1028f54780" alt="icon" width="100" height="100"> | 2024. 07      | 2024. 11  | [Clerker](https://github.com/D-X-W-Clerker)                        | AI 화의 요약 및 정리 서비스       | design, front            | 
 | <img src="https://github.com/user-attachments/assets/69557827-53c6-4e31-acd5-b756e20d7f05" alt="icon" width="100" height="100"> | 2024. 09      | 2024. 11  | [MiliPreview](https://github.com/orgs/kmu-alphabeta)                        | AI 군대 합격률 예측 서비스       | design, front            | 
+| <img src="https://avatars.githubusercontent.com/u/203616938?s=200&v=4" alt="icon" width="100" height="100"> | 2025. 03      | 2025. 06  | [Kuham](https://github.com/Kuham)                        | 대학교 커뮤니티 프로젝트 구인 서비스       | design, front            | 
 
 
 </div>
