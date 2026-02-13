@@ -75,8 +75,9 @@
 ## 🏆 Contest
 | 𝐴𝑤𝑎𝑟𝑑 | 𝐷𝑎𝑡𝑒       | 𝑁𝑎𝑚𝑒                                            | 𝐴𝑟𝑒𝑎               |
 |------------|----------------|-----------------------------------------------------|------------------------|
-| 최우수상          | 2024. 09 | [국민대학교 웹 학술 동아리 Wink × The Compass 해커톤](https://github.com/Winkathon-Tripee) | 해커톤      |
-| 우수상          | 2025. 11 | [서울대학교 x AWS Korea Data Venture Challenge](https://github.com/flex-interpre) |  공모전      |
+| 최우수상          | 2024. 09 | [국민대학교 웹 학술 동아리 WINK × The Compass 해커톤](https://github.com/Winkathon-Tripee) | 해커톤      |
+| 우수상          | 2025. 11 | [국민대학교 소프트웨어융합대학 AI & SW + X Day](https://github.com/Winkathon-Tripee) | -      |
+| 우수상          | 2025. 11 | [서울대학교 x AWS Korea Data Venture 문제 해결 Challenge](https://github.com/flex-interpre) |  공모전      |
 
 
 <div align='center'>
