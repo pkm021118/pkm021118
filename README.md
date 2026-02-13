@@ -37,7 +37,7 @@
       <td align="left">국민대학교 소프트웨어융합대학 제9대 학생회 홍보부 부원</td>
     </tr>
     <tr>
-      <td align="left">Archive</td>
+      <td align="left">BMI LAB</td>
       <td align="left">2025. 09 ~ </td>
       <td align="left">서울대학교병원 융합의학기술원 BMI LAB 연구원</td>
     </tr>
