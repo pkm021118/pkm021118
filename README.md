@@ -63,7 +63,7 @@
 | <img src="https://avatars.githubusercontent.com/u/203616938?s=200&v=4" alt="icon" width="100" height="100"> | 2025. 03      | 2025. 06  | [Kuham](https://github.com/Kuham)                        | 대학교 커뮤니티 프로젝트 구인 플랫폼       | design, front            | 
 | <img src="https://i.ibb.co/8DWjrxNm/6.png" alt="icon" width="100" height="100"> | 2025. 02      | 2025. 11  | [아리노리](https://github.com/SanhakProject)                        | 노인 인지 능력 상승을 위한 사물놀이 리듬게임      | design, front            | 
 | <img src="https://avatars.githubusercontent.com/u/223852233?s=200&v=4" alt="icon" width="100" height="100"> | 2025. 07      | 2025. 11  | [HurrCook](https://github.com/HurrCook)                        | 자취생을 위한 AI 레시피 추천 서비스       | design, front            | 
-| <img src="https://avatars.githubusercontent.com/u/193551375?s=200&v=4" alt="icon" width="100" height="100"> | 2025. 09      | 2026. 02  | [BMI LAB]                        | BMI LAB 내부 업무 시스템       | design, front            | 
+| <img src="https://avatars.githubusercontent.com/u/193551375?s=200&v=4" alt="icon" width="100" height="100"> | 2025. 09      | 2026. 02  | BMI LAB                        | BMI LAB 내부 업무 시스템       | design, front            | 
 | <img src="https://i.ibb.co/spfQxQys/Frame-1.png" alt="icon" width="100" height="100"> | 2025. 08      | 2025. 11  | [Interpre](https://github.com/flex-interpre)                        | AI 채용 매칭 플랫폼       | design, front            |
 
 
