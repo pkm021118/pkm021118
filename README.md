@@ -174,7 +174,7 @@
 <td align="center"><img src="https://i.ibb.co/NnKrjB6N/Frame-288.png" width="90"></td>
 <td>2025. 03</td>
 <td>2026. 02</td>
-<td><a href="https://github.com/flex-interpre">KookDongE</a></td>
+<td><a href="=https://github.com/KookDongE/kookdonge_client">KookDongE</a></td>
 <td>국민대학교 동아리 정보 플랫폼</td>
 <td>design, front</td>
 </tr>
@@ -183,7 +183,7 @@
 <td align="center"><img src="https://i.ibb.co/tMWYR5N6/logo.jpg" width="90"></td>
 <td>2026. 03</td>
 <td>2026. 03</td>
-<td><a href="https://github.com/flex-interpre">CampusCouple</a></td>
+<td><a href="https://github.com/KMU-CampusCouple/campuscouple_client">CampusCouple</a></td>
 <td>미팅 주선 서비스</td>
 <td>design, front</td>
 </tr>
