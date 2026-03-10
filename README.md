@@ -41,11 +41,6 @@
       <td align="left">2025. 09 ~ </td>
       <td align="left">서울대학교병원 융합의학기술원 BMI LAB 연구원</td>
     </tr>
-    <tr>
-      <td align="left">BMI LAB</td>
-      <td align="left">2025. 09 ~ </td>
-      <td align="left">서울대학교병원 융합의학기술원 BMI LAB 연구원</td>
-    </tr>
   </tbody>
 </table>
 
