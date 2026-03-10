@@ -166,7 +166,7 @@
 </tr>
 
 <tr>
-<td align="center"><img src="https://i.ibb.co/NnKrjB6N/Frame-288.png" width="90"></td>
+<td align="center"><img src="https://i.ibb.co/BbHZm87/Frame-290.png" width="90"></td>
 <td>2025. 03</td>
 <td>2026. 02</td>
 <td><a href="=https://github.com/KookDongE/kookdonge_client">KookDongE</a></td>
