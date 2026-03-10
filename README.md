@@ -55,29 +55,152 @@
 
 ## 💻 Projects
 
-<div align='left'>
+<div align="left">
 
-|                                                                 | 𝑆𝑡𝑎𝑟𝑡 𝐷𝑎𝑡𝑒 | 𝐸𝑛𝑑 𝐷𝑎𝑡𝑒 | 𝑁𝑎𝑚𝑒                                                          | 𝐷𝑒𝑠𝑐𝑟𝑖𝑝𝑡𝑖𝑜𝑛 | 𝑃𝑎𝑟𝑡 |
-|-----------------------------------------------------------------|---------------------|-----------------|-------------------------------------------------------------------|------------------------|---------------------|
-| <img src="https://github.com/user-attachments/assets/c95603da-c303-4b2c-8135-987f2c74799a" alt="icon" width="100" height="100"> | 2024. 04      | 2024. 07  | [Fuser](https://github.com/pkm021118/Fuser)          | 전자기기 전문 중고거래 서비스        | solo            |
-| <img src="https://github.com/user-attachments/assets/8d798690-d5b6-4e9c-83df-78a7ef4975ca" alt="icon" width="100" height="100"> | 2024. 06      | 2025. 02  | [WINK](https://github.com/KMU-WINK/wink-official)               | Web In Kookmin 공식 홈페이지       | design, Front            |
-| <img src="https://github.com/user-attachments/assets/218ecb37-9257-4f97-9916-ebe48d703ffa" alt="icon" width="100" height="100"> | 2024. 07      | 2024. 08  | [PlanList](https://github.com/2024-WINK-Project-PlanList) | 팀 일정관리 캘린더     | design, front            |
-| <img src="https://github.com/user-attachments/assets/1c232b5a-a28c-415a-a093-7b2ca3efcd54" alt="icon" width="100" height="100"> | 2024. 09     | 2024. 09  | [tripee](https://github.com/Winkathon-Tripee)                           | 여행 계획 거래 플랫폼 | design, front            | 
-| <img src="https://github.com/user-attachments/assets/227b1297-26e2-4edf-97f8-6d1028f54780" alt="icon" width="100" height="100"> | 2024. 07      | 2024. 11  | [Clerker](https://github.com/D-X-W-Clerker)                        | AI 회의 요약 및 정리 서비스       | design, front            | 
-| <img src="https://github.com/user-attachments/assets/69557827-53c6-4e31-acd5-b756e20d7f05" alt="icon" width="100" height="100"> | 2024. 09      | 2024. 11  | [MiliPreview](https://github.com/orgs/kmu-alphabeta)                        | AI 군대 합격률 예측 서비스       | design, front            | 
-| <img src="https://avatars.githubusercontent.com/u/203616938?s=200&v=4" alt="icon" width="100" height="100"> | 2025. 03      | 2025. 06  | [Kuham](https://github.com/Kuham)                        | 대학교 커뮤니티 프로젝트 구인 플랫폼       | design, front            | 
-| <img src="https://i.ibb.co/8DWjrxNm/6.png" alt="icon" width="100" height="100"> | 2025. 02      | 2025. 11  | [아리노리](https://github.com/SanhakProject)                        | 노인 인지 능력 상승을 위한 사물놀이 리듬게임      | design, front            | 
-| <img src="https://avatars.githubusercontent.com/u/223852233?s=200&v=4" alt="icon" width="100" height="100"> | 2025. 07      | 2025. 11  | [HurrCook](https://github.com/HurrCook)                        | 자취생을 위한 AI 레시피 추천 서비스       | design, front            | 
-| <img src="https://avatars.githubusercontent.com/u/193551375?s=200&v=4" alt="icon" width="100" height="100"> | 2025. 09      | 2026. 02  | BMI LAB                        | BMI LAB 내부 업무 시스템       | design, front            | 
-| <img src="https://i.ibb.co/spfQxQys/Frame-1.png" alt="icon" width="100" height="100"> | 2025. 08      | 2025. 11  | [Interpre](https://github.com/flex-interpre)                        | AI 채용 매칭 플랫폼       | design, front            |
-| <img src="https://i.ibb.co/NnKrjB6N/Frame-288.png" alt="icon" width="100"> | 2026. 02      | 2025. 03  | [KookDongE](https://github.com/flex-interpre)                        | 국민대학교 동아리 정보 플랫폼       | design, front            |
-| <img src="https://i.ibb.co/tMWYR5N6/logo.jpg" alt="icon" width="100" height="100"> | 2026. 03      | 2026. 03  | [CampusCouple](https://github.com/flex-interpre)                        | 미팅 주선 서비스       | design, front            |
-| | 2026. 03      |   | 서울대병원 연구실 유전체 품질관리 국가사업                       | 유전체 품질관리 대규모 데이터 저장 서비스       | design, front            |
+<table>
+<thead>
+<tr>
+<th>Icon</th>
+<th>Start Date</th>
+<th>End Date</th>
+<th>Name</th>
+<th>Description</th>
+<th>Part</th>
+</tr>
+</thead>
 
+<tbody>
 
+<tr>
+<td align="center"><img src="https://github.com/user-attachments/assets/c95603da-c303-4b2c-8135-987f2c74799a" width="90"></td>
+<td>2024. 04</td>
+<td>2024. 07</td>
+<td><a href="https://github.com/pkm021118/Fuser">Fuser</a></td>
+<td>전자기기 전문 중고거래 서비스</td>
+<td>solo</td>
+</tr>
+
+<tr>
+<td align="center"><img src="https://github.com/user-attachments/assets/8d798690-d5b6-4e9c-83df-78a7ef4975ca" width="90"></td>
+<td>2024. 06</td>
+<td>2025. 02</td>
+<td><a href="https://github.com/KMU-WINK/wink-official">WINK</a></td>
+<td>Web In Kookmin 공식 홈페이지</td>
+<td>design, front</td>
+</tr>
+
+<tr>
+<td align="center"><img src="https://github.com/user-attachments/assets/218ecb37-9257-4f97-9916-ebe48d703ffa" width="90"></td>
+<td>2024. 07</td>
+<td>2024. 08</td>
+<td><a href="https://github.com/2024-WINK-Project-PlanList">PlanList</a></td>
+<td>팀 일정관리 캘린더</td>
+<td>design, front</td>
+</tr>
+
+<tr>
+<td align="center"><img src="https://github.com/user-attachments/assets/1c232b5a-a28c-415a-a093-7b2ca3efcd54" width="90"></td>
+<td>2024. 09</td>
+<td>2024. 09</td>
+<td><a href="https://github.com/Winkathon-Tripee">Tripee</a></td>
+<td>여행 계획 거래 플랫폼</td>
+<td>design, front</td>
+</tr>
+
+<tr>
+<td align="center"><img src="https://github.com/user-attachments/assets/227b1297-26e2-4edf-97f8-6d1028f54780" width="90"></td>
+<td>2024. 07</td>
+<td>2024. 11</td>
+<td><a href="https://github.com/D-X-W-Clerker">Clerker</a></td>
+<td>AI 회의 요약 및 정리 서비스</td>
+<td>design, front</td>
+</tr>
+
+<tr>
+<td align="center"><img src="https://github.com/user-attachments/assets/69557827-53c6-4e31-acd5-b756e20d7f05" width="90"></td>
+<td>2024. 09</td>
+<td>2024. 11</td>
+<td><a href="https://github.com/orgs/kmu-alphabeta">MiliPreview</a></td>
+<td>AI 군대 합격률 예측 서비스</td>
+<td>design, front</td>
+</tr>
+
+<tr>
+<td align="center"><img src="https://avatars.githubusercontent.com/u/203616938?s=200&v=4" width="90"></td>
+<td>2025. 03</td>
+<td>2025. 06</td>
+<td><a href="https://github.com/Kuham">Kuham</a></td>
+<td>대학교 커뮤니티 프로젝트 구인 플랫폼</td>
+<td>design, front</td>
+</tr>
+
+<tr>
+<td align="center"><img src="https://i.ibb.co/8DWjrxNm/6.png" width="90"></td>
+<td>2025. 02</td>
+<td>2025. 11</td>
+<td><a href="https://github.com/SanhakProject">아리노리</a></td>
+<td>노인 인지 능력 상승을 위한 사물놀이 리듬게임</td>
+<td>design, front</td>
+</tr>
+
+<tr>
+<td align="center"><img src="https://avatars.githubusercontent.com/u/223852233?s=200&v=4" width="90"></td>
+<td>2025. 07</td>
+<td>2025. 11</td>
+<td><a href="https://github.com/HurrCook">HurrCook</a></td>
+<td>자취생을 위한 AI 레시피 추천 서비스</td>
+<td>design, front</td>
+</tr>
+
+<tr>
+<td align="center"><img src="https://avatars.githubusercontent.com/u/193551375?s=200&v=4" width="90"></td>
+<td>2025. 09</td>
+<td>2026. 02</td>
+<td>BMI LAB</td>
+<td>BMI LAB 내부 업무 시스템</td>
+<td>design, front</td>
+</tr>
+
+<tr>
+<td align="center"><img src="https://i.ibb.co/spfQxQys/Frame-1.png" width="90"></td>
+<td>2025. 08</td>
+<td>2025. 11</td>
+<td><a href="https://github.com/flex-interpre">Interpre</a></td>
+<td>AI 채용 매칭 플랫폼</td>
+<td>design, front</td>
+</tr>
+
+<tr>
+<td align="center"><img src="https://i.ibb.co/NnKrjB6N/Frame-288.png" width="90"></td>
+<td>2025. 03</td>
+<td>2026. 02</td>
+<td><a href="https://github.com/flex-interpre">KookDongE</a></td>
+<td>국민대학교 동아리 정보 플랫폼</td>
+<td>design, front</td>
+</tr>
+
+<tr>
+<td align="center"><img src="https://i.ibb.co/tMWYR5N6/logo.jpg" width="90"></td>
+<td>2026. 03</td>
+<td>2026. 03</td>
+<td><a href="https://github.com/flex-interpre">CampusCouple</a></td>
+<td>미팅 주선 서비스</td>
+<td>design, front</td>
+</tr>
+
+<tr>
+<td></td>
+<td>2026. 03</td>
+<td></td>
+<td>서울대병원 연구실 유전체 품질관리 국가사업</td>
+<td>유전체 품질관리 대규모 데이터 저장 서비스</td>
+<td>design, front</td>
+</tr>
+
+</tbody>
+</table>
 
 </div>
-
 <br/>
 
 ## 🏆 Contest
