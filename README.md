@@ -70,8 +70,8 @@
 | <img src="https://avatars.githubusercontent.com/u/223852233?s=200&v=4" alt="icon" width="100" height="100"> | 2025. 07      | 2025. 11  | [HurrCook](https://github.com/HurrCook)                        | 자취생을 위한 AI 레시피 추천 서비스       | design, front            | 
 | <img src="https://avatars.githubusercontent.com/u/193551375?s=200&v=4" alt="icon" width="100" height="100"> | 2025. 09      | 2026. 02  | BMI LAB                        | BMI LAB 내부 업무 시스템       | design, front            | 
 | <img src="https://i.ibb.co/spfQxQys/Frame-1.png" alt="icon" width="100" height="100"> | 2025. 08      | 2025. 11  | [Interpre](https://github.com/flex-interpre)                        | AI 채용 매칭 플랫폼       | design, front            |
-| <img src="https://i.ibb.co/spfQxQys/Frame-1.png" alt="icon" width="100" height="100"> | 2026. 02      | 2025. 03  | [KookDongE](https://github.com/flex-interpre)                        | 국민대학교 동아리 정보 플랫폼       | design, front            |
-| <img src="https://ibb.co/d0zkZy3v" alt="icon" width="100" height="100"> | 2026. 03      | 2026. 03  | [CampusCouple](https://github.com/flex-interpre)                        | 미팅 주선 서비스       | design, front            |
+| <img src="https://ibb.co/Wpf0yJWz/Frame-1.png" alt="icon" width="100" height="100"> | 2026. 02      | 2025. 03  | [KookDongE](https://github.com/flex-interpre)                        | 국민대학교 동아리 정보 플랫폼       | design, front            |
+| <img src="https://ibb.co/d0zkZy3v/Frame-1.png" alt="icon" width="100" height="100"> | 2026. 03      | 2026. 03  | [CampusCouple](https://github.com/flex-interpre)                        | 미팅 주선 서비스       | design, front            |
 | | 2026. 03      |   | 서울대병원 연구실 유전체 품질관리 국가사업                       | 유전체 품질관리 대규모 데이터 저장 서비스       | design, front            |
 
 
