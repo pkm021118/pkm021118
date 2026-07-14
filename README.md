@@ -38,8 +38,13 @@
     </tr>
     <tr>
       <td align="left">BMI LAB</td>
-      <td align="left">2025. 09 ~ </td>
+      <td align="left">2025. 09 ~ 2026.08</td>
       <td align="left">서울대학교병원 융합의학기술원 BMI LAB 연구원</td>
+    </tr>
+    <tr>
+      <td align="left">BMI LAB</td>
+      <td align="left">2026. 07 ~ </td>
+      <td align="left">SK AI Leader Academy, SKALA</td>
     </tr>
   </tbody>
 </table>
@@ -192,6 +197,15 @@
 <td>design, front</td>
 </tr>
 
+<tr>
+<td></td>
+<td>2026. 03</td>
+<td></td>
+<td><a href="https://github.com/kookmin-sw/2026-capstone-09">flowMeet</a></td>
+<td>흩어진 기획을 하나의 흐름으로 정리하는 AI 기반 협업 플랫폼</td>
+<td>design, front</td>
+</tr>
+
 </tbody>
 </table>
 
@@ -204,6 +218,7 @@
 | 최우수상          | 2024. 09 | [국민대학교 웹 학술 동아리 WINK × The Compass 해커톤](https://github.com/Winkathon-Tripee) | 해커톤      |
 | 우수상          | 2025. 11 | [국민대학교 소프트웨어융합대학 AI & SW + X Day](https://github.com/Winkathon-Tripee) | -      |
 | 우수상          | 2025. 11 | [서울대학교 x AWS Korea Data Venture 문제 해결 Challenge](https://github.com/flex-interpre) |  공모전      |
+| 은상          | 2026. 06 | [국민대학교 소프트웨어학부 캡스톤 프로젝트](https://github.com/kookmin-sw/2026-capstone-09) |  캡스톤      |
 
 
 <div align='center'>
