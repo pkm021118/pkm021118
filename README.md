@@ -42,9 +42,9 @@
       <td align="left">서울대학교병원 융합의학기술원 BMI LAB 연구원</td>
     </tr>
     <tr>
-      <td align="left">SKALA</td>
-      <td align="left">2026. 07 ~ </td>
-      <td align="left">SK AI Leader Academy</td>
+      <td align="left">SKALA 4기</td>
+      <td align="left">2026. 07 ~ 2026. 12</td>
+      <td align="left">SK AI Leader Academy 4기</td>
     </tr>
   </tbody>
 </table>
@@ -189,9 +189,9 @@
 </tr>
 
 <tr>
-<td></td>
+<td align="center"><img src="https://avatars.githubusercontent.com/u/193551375?s=200&v=4" width="90"></td>
 <td>2026. 03</td>
-<td></td>
+<td>2026. 08</td>
 <td>국가 통합 바이오 빅데이터</td>
 <td>유전체 품질관리 대규모 데이터 저장 및 관리 국가사업</td>
 <td>design, front</td>
