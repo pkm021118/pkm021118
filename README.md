@@ -198,9 +198,9 @@
 </tr>
 
 <tr>
-<td></td>
+<td align="center"><img src="https://cdn.phototourl.com/free/2026-07-15-788fe4ed-ec3b-437b-b4d4-e05e05bb2cd3.png" width="90"></td>
 <td>2026. 03</td>
-<td></td>
+<td>2026. 06</td>
 <td><a href="https://github.com/kookmin-sw/2026-capstone-09">flowMeet</a></td>
 <td>흩어진 기획을 하나의 흐름으로 정리하는 AI 기반 협업 플랫폼</td>
 <td>design, front</td>
