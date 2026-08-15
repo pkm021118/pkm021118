@@ -81,20 +81,11 @@
 </tr>
 
 <tr>
-<td align="center"><img src="https://github.com/user-attachments/assets/1c232b5a-a28c-415a-a093-7b2ca3efcd54" width="90"></td>
-<td>2024. 09</td>
-<td>2024. 09</td>
-<td><a href="https://github.com/Winkathon-Tripee">Tripee</a></td>
-<td>여행 계획 거래 플랫폼</td>
-<td>design, front</td>
-</tr>
-
-<tr>
 <td align="center"><img src="https://github.com/user-attachments/assets/227b1297-26e2-4edf-97f8-6d1028f54780" width="90"></td>
 <td>2024. 07</td>
 <td>2024. 11</td>
 <td><a href="https://github.com/D-X-W-Clerker">Clerker</a></td>
-<td>AI 회의 요약 및 정리 서비스</td>
+<td>AI AI 기반 회의 요약 및 정리 서비스</td>
 <td>design, front</td>
 </tr>
 
@@ -121,7 +112,7 @@
 <td>2025. 08</td>
 <td>2025. 11</td>
 <td><a href="https://github.com/flex-interpre">Interpre</a></td>
-<td>AI 채용 매칭 플랫폼</td>
+<td>AI AI Agent 기반 채용 매칭 플랫폼</td>
 <td>design, front</td>
 </tr>
 
