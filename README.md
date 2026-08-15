@@ -69,10 +69,10 @@
 <tr>
 <td align="center"><img src="https://i.ibb.co/8nWFPb64/Frame-3.png" width="90"></td>
 <td align="left"><a href="https://docent-skala.vercel.app/">Docent</a></td>
-<td align="left">MCP를 기반으로 AI와 함께 문서를 작성하고 관리하는 지능형 문서 작업 서비스</td>
+<td align="left">MCP 기반 AI 문서 작성 및 관리 지능형 문서 작업 서비스</td>
 <td align="center"><img src="https://i.ibb.co/mVWs895n/Frame-7.png" width="90"></td>
 <td align="left"><a href="https://www.skala-skct.com/">SKALA-SKCT</a></td>
-<td align="left">SKCT 유형별 문제 풀이와 학습을 지원하는 AI 기반 역량검사 대비 서비스</td>
+<td align="left">SKCT 유형별 문제 풀이 및 학습 지원 AI 기반 역량검사 대비 서비스</td>
 </tr>
 <tr>
 <td align="center"><img src="https://cdn.phototourl.com/free/2026-07-15-788fe4ed-ec3b-437b-b4d4-e05e05bb2cd3.png" width="90"></td>
