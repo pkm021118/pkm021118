@@ -72,29 +72,11 @@
 <tbody>
 
 <tr>
-<td align="center"><img src="https://github.com/user-attachments/assets/c95603da-c303-4b2c-8135-987f2c74799a" width="90"></td>
-<td>2024. 04</td>
-<td>2024. 07</td>
-<td><a href="https://github.com/pkm021118/Fuser">Fuser</a></td>
-<td>전자기기 전문 중고거래 서비스</td>
-<td>solo</td>
-</tr>
-
-<tr>
 <td align="center"><img src="https://github.com/user-attachments/assets/8d798690-d5b6-4e9c-83df-78a7ef4975ca" width="90"></td>
 <td>2024. 06</td>
 <td>2025. 02</td>
 <td><a href="https://github.com/KMU-WINK/wink-official">WINK</a></td>
 <td>Web In Kookmin 공식 홈페이지</td>
-<td>design, front</td>
-</tr>
-
-<tr>
-<td align="center"><img src="https://github.com/user-attachments/assets/218ecb37-9257-4f97-9916-ebe48d703ffa" width="90"></td>
-<td>2024. 07</td>
-<td>2024. 08</td>
-<td><a href="https://github.com/2024-WINK-Project-PlanList">PlanList</a></td>
-<td>팀 일정관리 캘린더</td>
 <td>design, front</td>
 </tr>
 
@@ -113,33 +95,6 @@
 <td>2024. 11</td>
 <td><a href="https://github.com/D-X-W-Clerker">Clerker</a></td>
 <td>AI 회의 요약 및 정리 서비스</td>
-<td>design, front</td>
-</tr>
-
-<tr>
-<td align="center"><img src="https://github.com/user-attachments/assets/69557827-53c6-4e31-acd5-b756e20d7f05" width="90"></td>
-<td>2024. 09</td>
-<td>2024. 11</td>
-<td><a href="https://github.com/orgs/kmu-alphabeta">MiliPreview</a></td>
-<td>AI 군대 합격률 예측 서비스</td>
-<td>design, front</td>
-</tr>
-
-<tr>
-<td align="center"><img src="https://avatars.githubusercontent.com/u/203616938?s=200&v=4" width="90"></td>
-<td>2025. 03</td>
-<td>2025. 06</td>
-<td><a href="https://github.com/Kuham">Kuham</a></td>
-<td>대학교 커뮤니티 프로젝트 구인 플랫폼</td>
-<td>design, front</td>
-</tr>
-
-<tr>
-<td align="center"><img src="https://i.ibb.co/8DWjrxNm/6.png" width="90"></td>
-<td>2025. 02</td>
-<td>2025. 11</td>
-<td><a href="https://github.com/SanhakProject">아리노리</a></td>
-<td>노인 인지 능력 상승을 위한 사물놀이 리듬게임</td>
 <td>design, front</td>
 </tr>
 
@@ -176,15 +131,6 @@
 <td>2026. 02</td>
 <td><a href="=https://github.com/KookDongE/kookdonge_client">KookDongE</a></td>
 <td>국민대학교 동아리 정보 플랫폼</td>
-<td>design, front</td>
-</tr>
-
-<tr>
-<td align="center"><img src="https://i.ibb.co/tMWYR5N6/logo.jpg" width="90"></td>
-<td>2026. 03</td>
-<td>2026. 03</td>
-<td><a href="https://github.com/KMU-CampusCouple/campuscouple_client">CampusCouple</a></td>
-<td>미팅 주선 서비스</td>
 <td>design, front</td>
 </tr>
 
