@@ -68,15 +68,15 @@
 <tbody>
 <tr>
 <td align="center"><!-- Docent 아이콘 주소를 입력하세요 --></td>
-<td align="left"><b>Docent</b></td>
-<td align="left">Docent 프로젝트 설명</td>
+<td align="left"><a href="https://docent-skala.vercel.app/">Docent</a></td>
+<td align="left">AI와 함께 문서를 작성하고 관리하는 지능형 문서 작업 서비스</td>
 <td align="center"><!-- SKALA-SKCT 아이콘 주소를 입력하세요 --></td>
-<td align="left"><b>SKALA-SKCT</b></td>
-<td align="left">SKALA-SKCT 프로젝트 설명</td>
+<td align="left"><a href="https://www.skala-skct.com/">SKALA-SKCT</a></td>
+<td align="left">SKCT 유형별 문제 풀이와 학습을 지원하는 AI 기반 역량검사 대비 서비스</td>
 </tr>
 <tr>
 <td align="center"><img src="https://cdn.phototourl.com/free/2026-07-15-788fe4ed-ec3b-437b-b4d4-e05e05bb2cd3.png" width="90"></td>
-<td align="left"><a href="https://github.com/kookmin-sw/2026-capstone-09">flowMeet</a></td>
+<td align="left"><a href="https://flowmeet.kr/">flowMeet</a></td>
 <td align="left">흩어진 기획을 하나의 흐름으로 정리하는 AI 기반 협업 플랫폼</td>
 <td align="center"><img src="https://avatars.githubusercontent.com/u/193551375?s=200&v=4" width="90"></td>
 <td align="left">국가 통합 바이오 빅데이터</td>
@@ -103,7 +103,7 @@
 <td align="left"><a href="https://github.com/D-X-W-Clerker">Clerker</a></td>
 <td align="left">AI 기반 회의 요약 및 정리 서비스</td>
 <td align="center"><img src="https://github.com/user-attachments/assets/8d798690-d5b6-4e9c-83df-78a7ef4975ca" width="90"></td>
-<td align="left"><a href="https://github.com/KMU-WINK/wink-official">WINK</a></td>
+<td align="left"><a href="https://wink.kookmin.ac.kr/about-us/wink">WINK</a></td>
 <td align="left">Web In Kookmin 공식 홈페이지</td>
 </tr>
 </tbody>
