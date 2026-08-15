@@ -84,10 +84,10 @@
 </tr>
 <tr>
 <td align="center"><img src="https://avatars.githubusercontent.com/u/261238537?s=200&v=4" width="90"></td>
-<td align="left"><a href="https://github.com/KookDongE/kookdonge_client">KookDongE</a></td>
+<td align="left">KookDongE</td>
 <td align="left">국민대학교 동아리 정보 플랫폼</td>
 <td align="center"><img src="https://i.ibb.co/spfQxQys/Frame-1.png" width="90"></td>
-<td align="left"><a href="https://github.com/flex-interpre">Interpre</a></td>
+<td align="left">Interpre</td>
 <td align="left">AI Agent 기반 채용 매칭 플랫폼</td>
 </tr>
 <tr>
@@ -95,12 +95,12 @@
 <td align="left">BMI LAB</td>
 <td align="left">BMI LAB 내부 업무 시스템</td>
 <td align="center"><img src="https://avatars.githubusercontent.com/u/223852233?s=200&v=4" width="90"></td>
-<td align="left"><a href="https://github.com/HurrCook">HurrCook</a></td>
+<td align="left">HurrCook</td>
 <td align="left">자취생을 위한 AI 레시피 추천 서비스</td>
 </tr>
 <tr>
 <td align="center"><img src="https://github.com/user-attachments/assets/227b1297-26e2-4edf-97f8-6d1028f54780" width="90"></td>
-<td align="left"><a href="https://github.com/D-X-W-Clerker">Clerker</a></td>
+<td align="left">Clerker</td>
 <td align="left">AI 기반 회의 요약 및 정리 서비스</td>
 <td align="center"><img src="https://github.com/user-attachments/assets/8d798690-d5b6-4e9c-83df-78a7ef4975ca" width="90"></td>
 <td align="left"><a href="https://wink.kookmin.ac.kr/about-us/wink">WINK</a></td>
