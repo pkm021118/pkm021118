@@ -85,7 +85,7 @@
 <td>2024. 07</td>
 <td>2024. 11</td>
 <td><a href="https://github.com/D-X-W-Clerker">Clerker</a></td>
-<td>AI AI 기반 회의 요약 및 정리 서비스</td>
+<td>AI 기반 회의 요약 및 정리 서비스</td>
 <td>design, front</td>
 </tr>
 
