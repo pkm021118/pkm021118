@@ -67,7 +67,7 @@
 </thead>
 <tbody>
 <tr>
-<td align="center"><img src="https://ibb.co/p6tC4QJr" width="90"></td>
+<td align="center"><img src="https://i.ibb.co/8nWFPb64/Frame-3.png" width="90"></td>
 <td align="left"><a href="https://docent-skala.vercel.app/">Docent</a></td>
 <td align="left">AI와 함께 문서를 작성하고 관리하는 지능형 문서 작업 서비스</td>
 <td align="center"><!-- SKALA-SKCT 아이콘 주소를 입력하세요 --></td>
