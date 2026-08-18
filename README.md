@@ -92,7 +92,7 @@
 </tr>
 <tr>
 <td align="center"><img src="https://i.ibb.co/Xf142XVn/Frame-5.png" width="90"></td>
-<td align="left">BMI LAB</td>
+<td align="left"><a href="https://snuh-bmilab.ai.kr/"/>BMI LAB</a></td>
 <td align="left">BMI LAB 내부 업무 시스템</td>
 <td align="center"><img src="https://i.ibb.co/23qHkYry/Frame-6.png" width="90"></td>
 <td align="left">HurrCook</td>
