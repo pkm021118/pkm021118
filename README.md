@@ -68,7 +68,7 @@
 <tbody>
 <tr>
 <td align="center"><img src="https://i.ibb.co/8nWFPb64/Frame-3.png" width="90"></td>
-<td align="left"><a href="https://docent.pkm021117.workers.dev/>Docent</a></td>
+<td align="left"><a href="https://docent.pkm021117.workers.dev"/>Docent</a></td>
 <td align="left">MCP 기반 AI 문서 작성 및 관리 지능형 문서 작업 서비스</td>
 <td align="center"><img src="https://i.ibb.co/mVWs895n/Frame-7.png" width="90"></td>
 <td align="left"><a href="https://www.skala-skct.com/">SKALA-SKCT</a></td>
