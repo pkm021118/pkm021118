@@ -68,7 +68,7 @@
 <tbody>
 <tr>
 <td align="center"><img src="https://raw.githubusercontent.com/pkm021118/pkm021118/main/assets/peakup.png" width="90"></td>
-<td align="left">PeakUp</td>
+<td align="left"><a href="https://peakup-web.pkm021117.workers.dev">PeakUp</a></td>
 <td align="left">경험 기반 AI 취업 전략 및 지원서 작성 플랫폼</td>
 <td align="center"><img src="https://i.ibb.co/8nWFPb64/Frame-3.png" width="90"></td>
 <td align="left"><a href="https://docent.pkm021117.workers.dev"/>Docent</a></td>
