@@ -69,7 +69,7 @@
 <tr>
 <td align="center"><img src="https://raw.githubusercontent.com/pkm021118/pkm021118/main/assets/peakup.png" width="90"></td>
 <td align="left"><a href="https://peakup-web.pkm021117.workers.dev">PeakUp</a></td>
-<td align="left">경험 기반 AI 취업 전략 및 지원서 작성 플랫폼</td>
+<td align="left">역량 임베딩 비교 기반 AI 취업 전략 및 지원서 작성 플랫폼</td>
 <td align="center"><img src="https://i.ibb.co/8nWFPb64/Frame-3.png" width="90"></td>
 <td align="left"><a href="https://docent.pkm021117.workers.dev"/>Docent</a></td>
 <td align="left">MCP 기반 AI 문서 작성 및 관리 지능형 문서 작업 서비스</td>
