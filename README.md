@@ -75,12 +75,12 @@
 <td align="left">MCP 기반 AI 문서 작성 및 관리 지능형 문서 작업 서비스</td>
 </tr>
 <tr>
-<td align="center"><img src="https://i.ibb.co/mVWs895n/Frame-7.png" width="90"></td>
-<td align="left"><a href="https://www.skala-skct.com/">SKALA-SKCT</a></td>
-<td align="left">SKCT 유형별 문제 풀이 및 학습 지원 AI 기반 역량검사 대비 서비스</td>
 <td align="center"><img src="https://cdn.phototourl.com/free/2026-07-15-788fe4ed-ec3b-437b-b4d4-e05e05bb2cd3.png" width="90"></td>
 <td align="left"><a href="https://flowmeet.kr/">flowMeet</a></td>
 <td align="left">흩어진 기획을 하나의 흐름으로 정리하는 AI 기반 협업 플랫폼</td>
+<td align="center"><img src="https://i.ibb.co/mVWs895n/Frame-7.png" width="90"></td>
+<td align="left"><a href="https://www.skala-skct.com/">SKALA-SKCT</a></td>
+<td align="left">SKCT 유형별 문제 풀이 및 학습 지원 AI 기반 역량검사 대비 서비스</td>
 </tr>
 <tr>
 <td align="center"><img src="https://i.ibb.co/Xf142XVn/Frame-5.png" width="90"></td>
