@@ -91,7 +91,7 @@
 <td align="left">국민대학교 동아리 정보 플랫폼</td>
 </tr>
 <tr>
-<td align="center"><img src="https://i.ibb.co/spfQxQys/Frame-1.png" width="90"></td>
+<td align="center"><img src="https://raw.githubusercontent.com/pkm021118/pkm021118/main/assets/interpre.png" width="90"></td>
 <td align="left">Interpre</td>
 <td align="left">AI Agent 기반 채용 매칭 플랫폼</td>
 <td align="center"><img src="https://i.ibb.co/Xf142XVn/Frame-5.png" width="90"></td>
