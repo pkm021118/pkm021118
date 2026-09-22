@@ -67,41 +67,41 @@
 </thead>
 <tbody>
 <tr>
+<td align="center"><img src="https://raw.githubusercontent.com/pkm021118/pkm021118/main/assets/peakup.png" width="90"></td>
+<td align="left">PeakUp</td>
+<td align="left">경험 기반 AI 취업 전략 및 지원서 작성 플랫폼</td>
 <td align="center"><img src="https://i.ibb.co/8nWFPb64/Frame-3.png" width="90"></td>
 <td align="left"><a href="https://docent.pkm021117.workers.dev"/>Docent</a></td>
 <td align="left">MCP 기반 AI 문서 작성 및 관리 지능형 문서 작업 서비스</td>
+</tr>
+<tr>
 <td align="center"><img src="https://i.ibb.co/mVWs895n/Frame-7.png" width="90"></td>
 <td align="left"><a href="https://www.skala-skct.com/">SKALA-SKCT</a></td>
 <td align="left">SKCT 유형별 문제 풀이 및 학습 지원 AI 기반 역량검사 대비 서비스</td>
-</tr>
-<tr>
 <td align="center"><img src="https://cdn.phototourl.com/free/2026-07-15-788fe4ed-ec3b-437b-b4d4-e05e05bb2cd3.png" width="90"></td>
 <td align="left"><a href="https://flowmeet.kr/">flowMeet</a></td>
 <td align="left">흩어진 기획을 하나의 흐름으로 정리하는 AI 기반 협업 플랫폼</td>
+</tr>
+<tr>
 <td align="center"><img src="https://i.ibb.co/Xf142XVn/Frame-5.png" width="90"></td>
 <td align="left">국가 통합 바이오 빅데이터</td>
 <td align="left">유전체 품질관리를 위한 대규모 데이터 저장 및 관리 국가사업</td>
-</tr>
-<tr>
 <td align="center"><img src="https://i.ibb.co/27B2bGg2/Frame-4.png" width="90"></td>
 <td align="left">KookDongE</td>
 <td align="left">국민대학교 동아리 정보 플랫폼</td>
+</tr>
+<tr>
 <td align="center"><img src="https://i.ibb.co/spfQxQys/Frame-1.png" width="90"></td>
 <td align="left">Interpre</td>
 <td align="left">AI Agent 기반 채용 매칭 플랫폼</td>
-</tr>
-<tr>
 <td align="center"><img src="https://i.ibb.co/Xf142XVn/Frame-5.png" width="90"></td>
 <td align="left"><a href="https://snuh-bmilab.ai.kr/"/>BMI LAB</a></td>
 <td align="left">BMI LAB 내부 업무 시스템</td>
+</tr>
+<tr>
 <td align="center"><img src="https://i.ibb.co/23qHkYry/Frame-6.png" width="90"></td>
 <td align="left">HurrCook</td>
 <td align="left">자취생을 위한 AI 레시피 추천 서비스</td>
-</tr>
-<tr>
-<td align="center"><img src="https://github.com/user-attachments/assets/227b1297-26e2-4edf-97f8-6d1028f54780" width="90"></td>
-<td align="left">Clerker</td>
-<td align="left">AI 기반 회의 요약 및 정리 서비스</td>
 <td align="center"><img src="https://github.com/user-attachments/assets/8d798690-d5b6-4e9c-83df-78a7ef4975ca" width="90"></td>
 <td align="left"><a href="https://wink.kookmin.ac.kr/about-us/wink">WINK</a></td>
 <td align="left">Web In Kookmin 공식 홈페이지</td>
