@@ -75,7 +75,7 @@
 <td align="left">MCP 기반 AI 문서 작성 및 관리 지능형 문서 작업 서비스</td>
 </tr>
 <tr>
-<td align="center"><img src="https://cdn.phototourl.com/free/2026-07-15-788fe4ed-ec3b-437b-b4d4-e05e05bb2cd3.png" width="90"></td>
+<td align="center"><img src="https://raw.githubusercontent.com/pkm021118/pkm021118/main/assets/flowmeet.svg" width="90"></td>
 <td align="left"><a href="https://flowmeet.kr/">flowMeet</a></td>
 <td align="left">흩어진 기획을 하나의 흐름으로 정리하는 AI 기반 협업 플랫폼</td>
 <td align="center"><img src="https://i.ibb.co/mVWs895n/Frame-7.png" width="90"></td>
